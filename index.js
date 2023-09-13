@@ -1,7 +1,7 @@
 const TEST = "HELLO";
 
 const sayHello = () => {
-  return "HELLO";
+  return "HELLOxxxxx";
 };
 
 module.exports = { sayHello };

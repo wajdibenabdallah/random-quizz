@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/wajdibenabdallah/random-quizz",
   "author": "Wajdi Ben Abdallah",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "random-quizz": "^0.0.1"
+  }
 }
